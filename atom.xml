@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[BigSaimo blog]]></title>
   <link href="http://bigsaimo.github.io/atom.xml" rel="self"/>
   <link href="http://bigsaimo.github.io/"/>
-  <updated>2014-10-25T23:59:25+08:00</updated>
+  <updated>2014-10-26T00:28:55+08:00</updated>
   <id>http://bigsaimo.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ke Wang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wo De Di [?] Pian Bo Ke]]></title>
+    <link href="http://bigsaimo.github.io/blog/2014/10/26/wo-de-di-%5B%3F%5D-pian-bo-ke/"/>
+    <updated>2014-10-26T00:00:00+08:00</updated>
+    <id>http://bigsaimo.github.io/blog/2014/10/26/wo-de-di-[?]-pian-bo-ke</id>
+    <content type="html"><![CDATA[<h1>我的第一篇博客</h1>
+
+<p>code：</p>
+
+<pre><code>NSLog("hello world")
+</code></pre>
+
+<hr />
+
+<p>reference</p>
+
+<blockquote><p>what the fuck.</p></blockquote>
+
+<p>中文<br/>
+——————</p>
+]]></content>
+  </entry>
   
 </feed>
